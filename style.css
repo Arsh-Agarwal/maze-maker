@@ -1,0 +1,23 @@
+/* tags */
+
+
+/* classes */
+.grid {
+	margin:0;
+	padding:0;
+	border: 1px solid black;
+    display:inline-block;
+	background-color: white;
+}
+
+/* ids */
+
+#container {
+	position: relative;
+	top: 30px;
+	font-size: 0;
+	margin:auto;
+	padding: 0;
+	border: none;
+    background-color: white;
+}
